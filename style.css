@@ -28,7 +28,6 @@ input{
     margin: 4px 9px;
 }
 #container{
-    background-color: rgb(109, 148, 221);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -49,5 +48,6 @@ a{
     color: black;
     margin: 3px 6px;
     display: inline-block;
-    background-color: rgb(102, 130, 190);
+    background-color: white;
+    padding: 2px 4px
 }
